@@ -1,4 +1,5 @@
-Flappy Bird AI
+#Flappy Bird AI
+
 Author: Tran Minh Toan
 
 Date: 2/2/2022
